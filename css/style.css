@@ -1,0 +1,13 @@
+#lang-input {
+  width: 20rem;
+  height: 2.4rem;
+}
+
+section button {
+  width: 6rem;
+  height: 2.4rem;
+}
+
+#red {
+  color: red;
+}
